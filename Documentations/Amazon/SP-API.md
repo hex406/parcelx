@@ -121,3 +121,5 @@ We call the authorization server link with following query parameters from our a
 ##### We have to save refresh token in our database or file along with client data to request for access_token in future to call SP-API on behalf of selling partners.
 
 * E) Browser displays landing page.
+
+##### Created and Last Edited on 28/06/2022 by Abhishek
