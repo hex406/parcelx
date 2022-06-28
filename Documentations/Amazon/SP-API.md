@@ -86,7 +86,7 @@ For example (OAuth URI with query params) :
 We call the authorization server link with following query parameters from our application :
 
 
-```grant_type : Must be "authorization_code"``
+``` grant_type : Must be "authorization_code"```
 
 
 ```code : Which we recieved in previous step (spapi_auth_code)```
